@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Ulises Gutiérrez</h1>
+<h1 align="center">Hola, soy Ulises Gutiérrez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="saludo" /></h1>
 
 <p align="center">
   <a href="https://github.com/ulicseg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+innovación;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Apasionado+por+la+innovación;Siempre+aprendiendo+nuevas+tecnologías" alt="Texto animado" />
   </a>
 </p>
 
@@ -49,11 +49,23 @@ Sistema en Django para gestionar el registro de votantes en procesos electorales
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulicseg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulicseg&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulicseg&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ulicseg&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulicseg&theme=radical&locale=es" alt="Racha de contribuciones" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulicseg&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Contacto
 
