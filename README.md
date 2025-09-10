@@ -3,10 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="mano saludando animada" width="30" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/ulicseg">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&duration=3000&lines=Desarrollador+Full+Stack;Apasionado+por+la+innovaci%C3%B3n+y+la+IA;Curioso+y+en+constante+aprendizaje;Transformando+ideas+en+soluciones+digitales">
-  </a>
+<p align="center"> <a href="https://github.com/ulicseg"> <!-- markdown dentro del bloque para centrar --> 
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&duration=3000&lines=Desarrollador+Full+Stack;Apasionado+por+la+innovaci%C3%B3n;Apasionado+por+la+inteligencia+artificial"> 
+</a>
 </p>
 
 <p align="center">
