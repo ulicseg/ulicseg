@@ -39,6 +39,7 @@
 ## 🚀 Proyectos Destacados
 ### [my-denuncia-app](https://github.com/ulicseg/my-denuncia-app)
 Plataforma web de denuncias anónimas presentada a la Policía del Chaco y utilizada a nivel provincial. Permite a los ciudadanos realizar denuncias de forma simple, segura y confidencial.
+**Demo:** [my-denuncia-app.vercel.app](my-denuncia-app.vercel.app)
 
 ### [Gutierrez-Hnos-App](https://github.com/ulicseg/Gutierrez-Hnos-App)  
 Aplicación web progresiva para gestión ganadera. Registra compras, ventas, stock y sanidad de animales. Desarrollada con React, Supabase y TailwindCSS.  
