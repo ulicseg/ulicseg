@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="mano saludando animada" width="30" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/ulicseg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+innovación;Siempre+aprendiendo+nuevas+tecnologías" alt="animación de texto con habilidades" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="desarrollador programando" />
