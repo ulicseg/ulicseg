@@ -1,110 +1,92 @@
-<h1 align="center">
-  Hola, soy Ulises Elian Gutiérrez
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="mano saludando animada" width="30" />
-</h1>
+<h1 align="center">Hola, soy Ulises Gutiérrez 👋</h1>
+<h3 align="center">Full Stack Developer | Python (Django) & Node.js</h3>
 
-<p align="center"> <a href="https://github.com/ulicseg"> <!-- markdown dentro del bloque para centrar --> 
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&duration=3000&lines=Desarrollador+Full+Stack;Apasionado+por+la+innovaci%C3%B3n;Apasionado+por+la+inteligencia+artificial"> 
-</a>
+<p align="center">
+  <em>Construyendo soluciones escalables para GovTech y Startups. Especialista en Backend y Bases de Datos.</em>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="desarrollador programando" />
+  <a href="https://www.linkedin.com/in/ulicseg-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ulicseg.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## 🌟 Perfil Profesional
-Soy un desarrollador **Full Stack** dedicado a crear soluciones tecnológicas intuitivas, funcionales y con impacto real.  
-Actualmente estudio la **Tecnicatura Universitaria en Programación** en la UTN (FRRe) y soy egresado del curso Full Stack **Informatorio**, lo que me ha dado una base sólida en programación y desarrollo de software.  
+### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en soluciones web con **React**, **Supabase** y **Django**  
-- 🌱 Aprendiendo **Firebase** y **Firestore**  
-- 🎯 Objetivo: crear herramientas que generen impacto real en la comunidad  
-- 🧠 Curioso y en constante aprendizaje  
+No soy solo un programador de código; soy un **solucionador de problemas**.
+Mi enfoque se centra en diseñar arquitecturas robustas que soporten cargas reales. He desarrollado desde sistemas de monitoreo electoral crítico hasta plataformas SaaS multi-tenant.
+
+* 🔭 **Actualmente:** Liderando el Backend en **Cancha-SI** (Startup SaaS) usando arquitectura Serverless.
+* 💼 **Experiencia Real:** Mis sistemas han sido utilizados por la **Policía del Chaco** y en elecciones locales con picos de **+30,000 usuarios**.
+* ⚡ **Stack Principal:** Python (Django), Node.js (NestJS), SQL Server & Firebase.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 🛠️ Arsenal Tecnológico
+
+**Backend & Data**
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Frontend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Experiencia en Proyectos
+### 🏆 Proyectos Destacados (Casos de Éxito)
 
-### [Sistema de Gestión de Votaciones](https://github.com/ulicseg/Sistema_Control_Votantes)  
-Aplicación en **Django** con **SQL Server**, orientada a la supervisión de votantes en tiempo real, con roles diferenciados (administrador y fiscal) y acceso multiplataforma.  
-**Demo:** [sistemavotaciontato.pythonanywhere.com](https://sistemavotaciontato.pythonanywhere.com/)
+#### 🗳️ [Sistema de Gestión de Votaciones (GovTech)](https://github.com/ulicseg/Sistema_Control_Votantes)
+> *Impacto: +30,000 ciudadanos monitoreados en tiempo real.*
+Plataforma crítica desarrollada en **Django** y **SQL Server**. Diseñada para soportar alta concurrencia de fiscales cargando datos simultáneamente sin latencia.
+* **Tech:** Django, SQL Server, Bootstrap.
+* **Despliegue:** PythonAnywhere.
+* 🔗 **Live Demo:** [sistemavotaciontato.pythonanywhere.com](https://sistemavotaciontato.pythonanywhere.com/)
 
-### [GestorLegislativo](https://github.com/ulicseg/GestorLegislativo)  
-Plataforma web para la gestión y seguimiento de proyectos legislativos, comisiones y asesores. Desarrollada en Django y desplegada en PythonAnywhere.
+#### 🚓 [MyDenunciaApp - Policía del Chaco](https://github.com/ulicseg/my-denuncia-app)
+> *Impacto: Adoptado como prueba piloto gubernamental.*
+Sistema de denuncias anónimas que garantiza la privacidad del ciudadano mediante criptografía y diseño seguro.
+* **Tech:** Node.js, Express, HTML5.
+* 🔗 **Live Demo:** [my-denuncia-app.vercel.app](https://my-denuncia-app.vercel.app)
 
-### [my-denuncia-app](https://github.com/ulicseg/my-denuncia-app)  
-Plataforma web de denuncias anónimas presentada a la Policía del Chaco y utilizada a nivel provincial.  
-**Demo:** [my-denuncia-app.vercel.app](https://my-denuncia-app.vercel.app)
+#### ⚽ [Cancha-SI (SaaS Backend)](https://github.com/ulicseg/)
+*(Repositorio Privado / En Desarrollo)*
+Backend para gestión de complejos deportivos.
+* **Arquitectura:** Serverless con Firebase Cloud Functions.
+* **Features:** Matchmaking, Reservas en tiempo real, Pagos.
 
-### [Gutierrez-Hnos-App](https://github.com/ulicseg/Gutierrez-Hnos-App)  
-Aplicación web progresiva para gestión ganadera. Registra compras, ventas, stock y sanidad de animales.  
-**Demo:** [gutierrez-hnos-app.vercel.app](https://gutierrez-hnos-app.vercel.app)
-
----
-
-## 🎓 Formación Académica
-- **Tecnicatura Universitaria en Programación** – UTN FRRe (en curso)  
-- **Full Stack Developer** – Informatorio (finalizado)  
-- **Maestro Mayor de Obras** – Formación técnica secundaria  
-
----
-
-## 🌐 Sobre mí
-Soy un desarrollador orientado a resultados, con experiencia en frontend y backend, apasionado por la **inteligencia artificial** y las **tecnologías modernas**.  
-Me interesa transformar ideas en soluciones digitales que mejoren la vida de las personas.  
-
-Me caracterizo por:  
-- Adaptabilidad  
-- Resolución de problemas  
-- Mentalidad de aprendizaje continuo  
-
-🎯 Objetivo: especializarme en **IA y Data Science**, combinando el perfil técnico con visión estratégica.  
+#### 💼 [SaaS Multi-Tenant de Gestión Comercial](https://github.com/ulicseg/)
+Sistema ERP con módulos de Caja, Ventas y Stock.
+* **Tech:** NestJS, Prisma (PostgreSQL), React, JWT Auth & RBAC.
 
 ---
 
-## 📊 Estadísticas de GitHub
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ulicseg&show_icons=true&theme=radical&locale=es" alt="estadísticas de GitHub" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulicseg&theme=radical&locale=es" alt="racha de contribuciones" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulicseg&layout=compact&theme=radical&locale=es" alt="lenguajes más usados" />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ulicseg&show_icons=true&theme=radical&hide=stars" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulicseg&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 📫 Contacto
-- 🌐 Portafolio: [ulicseg.github.io](https://ulicseg.github.io/)  
-- 💼 LinkedIn: [Ulises Gutiérrez](https://www.linkedin.com/in/ulises-gutiérrez-0713292ab)  
-- 📧 Correo: [ulicseg.dev@gmail.com](mailto:ulicseg.dev@gmail.com)  
-
----
-
-<p align="center">✨ ¡Gracias por visitar mi perfil! ✨</p>
+<p align="center">
+  <em>"Talk is cheap. Show me the code."</em><br>
+  ¿Buscas un desarrollador que entienda el negocio? <a href="mailto:ulicseg.dev@gmail.com"><strong>Hablemos.</strong></a>
+</p>
