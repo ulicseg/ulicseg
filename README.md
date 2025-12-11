@@ -78,10 +78,11 @@ Sistema ERP con módulos de Caja, Ventas y Stock.
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulicseg&show_icons=true&theme=radical&hide=stars" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulicseg&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ulicseg&show_icons=true&theme=radical&hide=stars" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ulicseg&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
+  </a>
 </div>
 
 ---
